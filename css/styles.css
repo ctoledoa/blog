@@ -680,8 +680,7 @@ header{
 }
 
 #menu {
-    clear: both;
-    float: none;
+    float: right;
     width: 440px;
     margin: 0px auto;
 }
